@@ -1,3 +1,5 @@
 # data_wrangling
 examples of data wrangling
-simple but easy examples of working with JSON, xml, etc files
+simple and effective examples of reading and working with files
+JSON
+XML
